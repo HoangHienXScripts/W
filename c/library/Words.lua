@@ -1,3 +1,3 @@
 return {
-  "ERROR", "ERA"
+  "QUEEN", "QUITE", "QUIET", "QUIETS", "QUEENS", "QUOTE", "QUOTES", "QUICK", "QUICKER", "QUICKLY"
 }
